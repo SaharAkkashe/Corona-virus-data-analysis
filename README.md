@@ -3,7 +3,7 @@
 This Excel dashboard offer insights into key metrics such as total cases, new cases, deaths, recoveries, active cases, testing rates, and vaccination statistics.
 
 ## Features
-- **Excel Dashboard**: A detailed analysis using Excel with pivot tables, charts, and visualizations.
+**Excel Dashboard**: A detailed analysis using Excel with pivot tables, charts, and visualizations.
   
 ## Data Sources
 The data used in this project is sourced from publicly available datasets regarding COVID-19 statistics globally. 
